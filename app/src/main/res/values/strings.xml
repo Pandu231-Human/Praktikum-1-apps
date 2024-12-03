@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="more">MORE</string>
+    <string name="apps">APPS</string>
+    <string name="movies">MOVIES TV</string>
+    <string name="music">MUSIC</string>
+    <string name="news">NEWS</string>
+    <string name="games">GAMES</string>
+    <string name="books">BOOKS</string>
+    <string name="trivia">Trivia</string>
+    <string name="kpop">Kpop Music</string>
+    <string name="pokemon">Pokemon</string>
+    <string name="cookie">Cookie Run</string>
+    <string name="tiktok">Tiktok</string>
+    <string name="whatsapp">whatsapp</string>
+    <string name="x">X</string>
+    <string name="instagram">Instagram</string>
+    <string name="temple">Temple Run</string>
+    <string name="snapchat">Snapchat</string>
+    <string name="newsupdate">New + Update Games</string>
+    <string name="popularapps">Popular Apps + Games</string>
+</resources>
